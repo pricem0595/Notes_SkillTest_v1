@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "subject": "Take out the trash",
+      "body":
+      "The trash goes out on Wednesdays at 9p.m.",
+      "read": false
+    },
+    {
+      "subject": "Do the dishes",
+      "body":
+      "The dishes were left in the sink from the other night",
+      "read": false
+    },
+    {
+      "subject": "Fold the laundry",
+      "body":
+      "Two loads of laundry need to be folded and put away",
+      "read": true
+    },
+    {
+      "subject": "Duis nec libero a sem euis",
+      "body":
+      "Tonight we're having penne alla vodka. The recipe is on the fridge",
+      "read": false
+    }
+  ]
+}
